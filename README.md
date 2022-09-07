@@ -1,5 +1,6 @@
-Hi there, I post stuff I code sometimes, you cna take a look if you want!
-
+Competitive Programming
+Websites
+Robots
 
 <!---
 glorithebest/glorithebest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
