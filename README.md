@@ -1,6 +1,4 @@
-Competitive Programming
-Websites
-Robots
+Competitive Programming, Websites & Robots
 
 <!---
 glorithebest/glorithebest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
